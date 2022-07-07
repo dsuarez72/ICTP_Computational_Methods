@@ -1,0 +1,15 @@
+######################
+## R Files to Avoid ##
+######################
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+##################
+## Avoid Others ##
+##################
+
+*.html
